@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sydsajidhussain
-- 👀 I’m interested in full-stack, rust, wasm ,actix, yew,
-- 💞️ I’m looking to collaborate on rust and wasm projects
+- 👀 I’m interested in full-stack, rust, wasm
+- 💞️ I’m looking to collaborate on rust projects
 - - 📫 sysajid98@gmail.com
 
 <!---
