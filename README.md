@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sydsajidhussain
-- 👀 I’m interested in full-stack, rust, wasm
+- 👀 I’m interested in rust, wasm and web3
 - 💞️ looking to collaborate on rust projects
 - - 📫 sysajid98@gmail.com
 
